@@ -1,0 +1,30 @@
+{
+  "name": "capJS-uploadfile",
+  "version": "0.1.0",
+  "description": "Un framework sencillo para subir archivos al servidor mediante el uso de javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt uglify:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfa30/capJS-uploadfile.git"
+  },
+  "keywords": [
+    "javascript",
+    "upload",
+    "file"
+  ],
+  "author": "Jonathan Delgado <jonad.correo@gmail.com>",
+  "license": "Creative Commons Attribution 4.0 International",
+  "bugs": {
+    "url": "https://github.com/alfa30/capJS-uploadfile/issues"
+  },
+  "homepage": "https://github.com/alfa30/capJS-uploadfile",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-uglify": "^0.5.0"
+  },
+  "dependencies": {}
+}
